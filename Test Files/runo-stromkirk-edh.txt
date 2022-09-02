@@ -1,0 +1,83 @@
+1 Ancient Brass Dragon
+1 Aqueous Form
+1 Arcane Adaptation
+1 Arcane Signet
+1 Archon of Cruelty
+1 Beacon of Unrest
+1 Bident of Thassa
+1 Bonders' Enclave
+1 Brainstorm
+1 Brinelin, the Moon Kraken
+1 Burning-Rune Demon
+1 Burnished Hart
+1 Careful Study
+1 Choked Estuary
+1 Clearwater Pathway / Murkwater Pathway
+1 Command Tower
+1 Commander's Sphere
+1 Consider
+1 Conspiracy
+1 Counterspell
+1 Curiosity Crafter
+1 Decanter of Endless Water
+1 Deepchannel Mentor
+1 Demonic Tutor
+1 Dimir Signet
+1 Doomed Necromancer
+1 Evolving Wilds
+1 Fabled Passage
+1 Feed the Swarm
+1 Fleet Swallower
+1 Glasspool Mimic / Glasspool Shore
+1 Gyruda, Doom of Depths
+1 Helm of the Host
+1 Hullbreaker Horror
+1 Infernal Grasp
+10 Island
+1 Labyrinth of Skophos
+1 Ledger Shredder
+1 Lightning Greaves
+1 Lim-Dûl's Vault
+1 Lorthos, the Tidemaker
+1 Maskwood Nexus
+1 Massacre Wurm
+1 Military Intelligence
+1 Millikin
+1 Mirror Box
+1 Morphic Pool
+1 Necromantic Summons
+1 Negate
+1 Nemesis of Reason
+1 Noxious Gearhulk
+1 Persist
+1 Port of Karfell
+1 Power Word Kill
+1 Rite of Replication
+1 Rogue's Passage
+1 Runo Stromkirk / Krothuss, Lord of the Deep
+1 Scroll Rack
+1 Sensei's Divining Top
+1 Serpent of Yawning Depths
+1 Sol Ring
+1 Solemn Simulacrum
+1 Spark Double
+1 Spawning Kraken
+1 Stormsurge Kraken
+1 Strionic Resonator
+1 Striped Riverwinder
+1 Sunken Hollow
+9 Swamp
+1 Swiftfoot Boots
+1 Tainted Isle
+1 Talisman of Dominance
+1 Temple of Deceit
+1 Thirst for Knowledge
+1 Tricks of the Trade
+1 Unmarked Grave
+1 Vampiric Tutor
+1 Victimize
+1 Watery Grave
+1 Wayfarer's Bauble
+1 Whispersilk Cloak
+1 Windfall
+1 Worn Powerstone
