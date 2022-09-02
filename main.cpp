@@ -4,7 +4,7 @@
 
 using namespace std;
 
-bool searchList(vector<string> cardList) {
+bool searchList(vector<string> cardList, string cardName) {
     return false;
 }
 
