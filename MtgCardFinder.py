@@ -18,14 +18,15 @@ class Card:
 
 def searchList(cardList, cardName):
     for card in cardList:
-        if card.getName().lower() == cardName.lower():
+        print(card.getName().lower())
+        if card.getName().lower()cardName.lower():
             return True
     return False
 
 def loadList():
     # Returns list of card names (strings)
     cardList = []
-    fileName = "Test Files/" + input("What is the file?")
+    fileName = "Test Files/" + input("What is the file? ")
     file = open(fileName, "r")
     
     for card in file:
@@ -72,6 +73,7 @@ if __name__ == "__main__":
             case "2":
                 cardName = ""
                 cardName = input("What card are you looking for? ")
+                print(cardName)
                 if (searchList(cards, cardName)):
                     print("Card is in the list")
                 else:
